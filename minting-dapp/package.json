@@ -2,6 +2,8 @@
     "name": "@hashlips-lab/nft-erc721-collection-dapp",
     "version": "1.0.0",
     "devDependencies": {
+        "@babel/cli": "^7.17.6",
+        "@babel/core": "^7.17.7",
         "@babel/preset-react": "^7.0.0",
         "@metamask/detect-provider": "^1.2.0",
         "@symfony/webpack-encore": "^1.7.0",
